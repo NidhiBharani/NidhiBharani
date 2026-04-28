@@ -1,55 +1,63 @@
-# Nidhi Bharani
+# Hey, I'm Nidhi 👋
 
-AI/ML engineer, product-minded builder, and technical leader focused on voice AI, multimodal agents, and reliable production ML systems.
+I make AI actually talk — and listen, understand, summarize, and show up on time.  
+Specializing in voice AI, multimodal agents, and ML systems that behave in production (not just in demos).
+
+---
 
 ## About me
 
-I work at the intersection of AI engineering, product strategy, and applied machine learning.  
-My work spans end-to-end AI delivery: shaping problem definitions, designing system architecture, building and evaluating models, and shipping production workflows with product, data, and engineering teams.
+I live in the messy, exciting middle ground between AI research and shipped product.
 
-I’m especially interested in practical AI systems that are fast, trustworthy, and useful in real-world settings.
+Currently obsessed with: agents that remember things, voices that switch languages mid-sentence, and AI that's genuinely useful to people who need it most.
 
-## What I build
+---
 
-- **Production voice AI systems** for high-impact workflows
-- **Clinical conversation summarization** into structured SOAP-style notes
-- **Multilingual and code-switching conversational agents**
-- **Low-latency real-time voice agents**
-- **Task-oriented healthcare voice workflows** (appointment booking, symptom intake, follow-ups)
-- **Assistive AI companions** designed for accessibility and everyday support
-- **Multimodal AI applications** across text, audio, and image inputs
+## What I build 🛠️
 
-## Current interests
+- **Voice AI systems** that handle real conversations, not just happy paths
+- **Clinical conversation → structured notes** (because doctors shouldn't be typists)
+- **Multilingual & code-switching agents** — yes, mid-sentence language switching is a thing, and it's hard
+- **Low-latency voice agents** where every millisecond actually matters
+- **Task-oriented voice workflows** — booking, intake, follow-ups, the works
+- **Assistive AI companions** built for accessibility, not as an afterthought
+- **Multimodal applications** that reason across text, audio, and images
 
-- Trustworthy, configurable AI agents for real-world routines
-- Personalization and memory for long-running agent interactions
-- Accessible AI experiences for reminders, emotional check-ins, and information delivery
-- Agentic systems that balance autonomy, safety, and user control
-- Practical evaluation methods for quality, latency, and reliability in production
+---
 
-## Technical focus
+## What's on my mind lately 🧠
 
-- LLM applications and agent orchestration
-- Speech AI (ASR/TTS), conversational design, and voice UX
-- RAG pipelines and knowledge-grounded assistants
+- AI agents that *actually* remember you (not just your name)
+- Making voice interfaces work across languages, accents, and messy audio
+- Accessible AI that reaches people who are often left out of the "AI for everyone" conversation
+- Keeping agents useful and safe at the same time (harder than it sounds)
+- Measuring quality in production — because vibes aren't a metric
+
+---
+
+## Technical toolbox 🔧
+
+- LLM applications, prompt engineering, and agent orchestration
+- Speech AI end-to-end: ASR, TTS, conversational design, voice UX
+- RAG pipelines and knowledge-grounded generation
 - Multimodal inference and workflow composition
-- Production ML systems: observability, latency, reliability, and failure handling
-- Safety, evaluation frameworks, and user-centered model iteration
+- Production ML: observability, latency tuning, failure handling, and reliability at scale
+- Evaluation frameworks that go beyond perplexity
 
-## Selected project themes
+---
 
-- Converting unstructured medical conversations into structured clinical documentation
-- Designing robust multilingual voice interfaces for mixed-language use cases
-- Building real-time voice agents optimized for responsiveness and task completion
-- Creating assistive AI tools for users with cognitive and accessibility needs
-- Developing configurable agent workflows for reminders, routines, and decision support
-- Operationalizing ML systems with measurable quality and production constraints
+## Things I've worked on (without naming names) 🗂️
 
-## GitHub activity / open-source
+- Turning messy clinical conversations into clean, structured medical documentation
+- Building voice interfaces that hold up across multiple languages in a single conversation
+- Shipping real-time voice agents where speed and accuracy both have to win
+- Designing AI tools for users with cognitive and accessibility needs
+- Creating agent-based reminder and routine systems people actually use
+- Getting ML systems production-ready with real quality constraints, not just research metrics
 
-I use GitHub to share selected work, experiments, and implementation patterns where appropriate.  
-My repositories and contributions reflect an execution-focused approach to applied AI, with emphasis on practical system design and production readiness.
+---
 
-## Let’s collaborate
+## Let's talk 🤝
 
-If you’re building thoughtful, real-world AI systems—especially in voice, multimodal agents, healthcare, or accessibility—I’m always open to connecting.
+Building something in voice AI, multimodal agents, healthcare tech, or accessibility?  
+I'm always up for a conversation — reach out.
