@@ -9,8 +9,6 @@ Specializing in voice AI, multimodal agents, and ML systems that behave in produ
 
 I live in the messy, exciting middle ground between AI research and shipped product.
 
-That means I'm just as comfortable debating model architecture as I am debugging a latency spike at 11pm. I care about systems that work for real people in real conditions — not just ones that benchmark well.
-
 Currently obsessed with: agents that remember things, voices that switch languages mid-sentence, and AI that's genuinely useful to people who need it most.
 
 ---
