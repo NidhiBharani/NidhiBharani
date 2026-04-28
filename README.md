@@ -1,63 +1,22 @@
 # Nidhi Bharani
 
-**AI/ML Engineer · Voice AI · LLM Agents · Multimodal Systems · Healthcare AI**
+I build AI systems that have to work in the real world — not just in notebooks, not just in demos.
 
-I build AI systems end-to-end — from early prototype through production deployment. My focus is on systems that are fast, reliable, and genuinely useful: the kind that survive real users, real scale, and real edge cases.
-
----
-
-## What I build
-
-**Voice AI & Speech Systems**
-Real-time voice agents, ASR/TTS pipelines, multilingual and code-switching conversational systems, clinical conversation-to-documentation workflows. I care about low latency, speaker robustness, and making voice UX feel natural rather than robotic.
-
-**LLM Agents & Agentic Workflows**
-End-to-end agent systems with RAG, structured memory, tool use, and multi-step reasoning. I design for controllability and safety — agents that are autonomous enough to be useful but predictable enough to trust.
-
-**Healthcare AI**
-AI systems for clinical documentation, symptom intake, appointment workflows, and care coordination. I build with an awareness of what it means when a system gets it wrong.
-
-**Accessibility-Focused AI**
-Assistive AI companions and interfaces designed for users with cognitive or physical accessibility needs — reminders, routines, emotional check-ins, and decision support.
-
-**Multimodal AI**
-Systems that reason across text, audio, and image inputs. Inference pipelines, workflow composition, and multimodal product design.
+Most of my work lives at the intersection of **voice AI**, **LLM agents**, and domains where getting it wrong actually matters (healthcare, accessibility). I've built pipelines end-to-end: from data and training through serving and monitoring. I care as much about latency and failure modes as I do about model quality, because users feel all of it.
 
 ---
 
-## Technical skills
+A few things I keep coming back to:
 
-| Area | Details |
-|---|---|
-| **LLM & Agents** | Prompt engineering, RAG pipelines, agentic orchestration, tool calling, memory systems, evaluation |
-| **Speech AI** | ASR, TTS, real-time streaming, speaker adaptation, multilingual systems |
-| **Finetuning** | Supervised finetuning, RLHF/RLAIF, domain adaptation for specialized tasks |
-| **ML Systems** | Serving, latency optimization, observability, reliability, failure handling |
-| **Multimodal** | Audio + text + vision pipelines, multimodal inference, cross-modal retrieval |
-| **Evaluation** | Production quality metrics, safety evaluation, human-in-the-loop frameworks |
+- Real-time voice is a hard problem. ASR, TTS, conversational turn-taking, multilingual edge cases, speaker variability — and none of it can afford to lag. I find this genuinely interesting.
+- LLM agents need to be predictable before they can be trusted. Autonomous enough to be useful, controllable enough that you know what they'll do when something unexpected happens.
+- Healthcare and accessibility set a higher bar. The systems I've worked on in these spaces have made me a more careful builder across the board.
+- Finetuning is underrated as a tool. Off-the-shelf models are a starting point, not a ceiling.
 
 ---
 
-## What I care about
-
-`latency` &nbsp;·&nbsp; `reliability` &nbsp;·&nbsp; `safety` &nbsp;·&nbsp; `personalization` &nbsp;·&nbsp; `product design` &nbsp;·&nbsp; `accessibility`
-
-I work best at the intersection of engineering depth and product thinking — I can go deep on model behavior and system architecture, and I also ask *why are we building this and who does it actually help?*
-
----
-
-## Current interests
-
-- Persistent memory and personalization for long-running agentic systems
-- Trustworthy AI agents that balance autonomy with user control
-- Practical safety and evaluation methods for production LLM applications
-- Accessible AI experiences that meet users where they are
-- Low-latency real-time voice and multimodal interfaces
+Things I'm thinking about lately: persistent memory and personalization for long-running agents, practical approaches to production-grade safety and evaluation, and where voice and multimodal interfaces are actually headed once the novelty settles.
 
 ---
 
 > *If it only works in a demo, it doesn't work.*
-
----
-
-📬 Open to conversations about roles in AI/ML engineering, applied research, and technical leadership. If you're building real-world AI systems — especially in voice, healthcare, or accessibility — let's talk.
